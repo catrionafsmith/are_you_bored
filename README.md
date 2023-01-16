@@ -1,9 +1,9 @@
 # Are You Bored?
-If you are bored, why not receive a creative suggestion for what you should do next?!
+If you're bored, why not receive a creative suggestion for what you should do next?!
 
 [Click on this link to experience the magic!](http://oldfashioned891.pythonanywhere.com/)
 
-<img width="655" alt="Screen Shot 2023-01-16 at 9 17 21 pm" src="https://user-images.githubusercontent.com/113362369/212654352-a21fa365-a0fb-4087-93ca-68f5c45df73d.png">
+![Are_you_bored_gif](https://user-images.githubusercontent.com/113362369/212678900-2702980c-5452-4471-93a9-5df2c7b52171.gif)
 
 This is a flask app which makes suggestions on what to do, based on the Bored API!
 
