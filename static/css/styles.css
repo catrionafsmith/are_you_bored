@@ -1,8 +1,23 @@
 body {
     font-family: 'Orbitron', sans-serif;
-    font-size: xx-large;
+    font-size: x-large;
     text-align: center;
     background-image: url(6502013.jpg);
-    color: antiquewhite;
+    color: floralwhite;
 
 }
+
+button {
+    font-family: 'Orbitron', sans-serif;
+    font-size: larger;
+    padding: 15px;
+    margin: auto;
+    opacity: 0.3;
+    color: navy;
+    border-radius: 10px;
+}
+
+h1 {
+    margin-top: 50px;
+}
+/* <a href="https://www.freepik.com/free-vector/watercolor-galaxy-background_21727335.htm#query=galaxy%20background&position=1&from_view=keyword">Image by coolvector</a> on Freepik */
